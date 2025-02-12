@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @saurabhmaurya259
-- 👀 I’m interested in ethical hacking,cyber security and web development.
-- 🌱 I’m currently learning python, data structure with c.
-- 💞️ I’m looking to collaborate on web development and cyber security.
+- 👋 Hi, I’m Saurabh
+- 👀 I’m interested in cloud computing,cyber security, ethical hacking,and web development.
+- 🌱 I’m currently learning Golang , Kubernetes.
+- 💞️ I’m looking to collaborate on cloud computing and cyber security.
 - 📫 How to reach me it's easy to reach me u can contact me on my mail saurabhmaurya0654@gmail.com
 
 <!---
